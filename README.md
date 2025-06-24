@@ -1,3 +1,5 @@
+This repository is part of the CSE3000 Bachelor Thesis of Computer Science and Engineering at TU Delft. The paper can be found at the following link: https://repository.tudelft.nl/record/uuid:2e29eb85-fa8a-4e7b-8598-ef9838931b01.
+
 # A Multi Task Learning approach to classifying the severity of Alzheimer’s disease using single-cell gene expression data
 
 This repository contains the code for the paper "A Multi Task Learning approach to classifying the severity of Alzheimer’s disease using single-cell gene expression data".
